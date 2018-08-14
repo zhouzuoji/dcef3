@@ -1,0 +1,5 @@
+TCef3Chromium BITMAP "chromium.bmp"
+TCef3ChromiumOSR BITMAP "chromium.bmp"
+TCef3ChromiumFMX BITMAP "chromium.bmp"
+TCef3ChromiumFMXOSR BITMAP "chromium.bmp"
+TCef3ChromiumDevTools BITMAP "chromium.bmp"
